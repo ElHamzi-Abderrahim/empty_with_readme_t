@@ -8,9 +8,11 @@ About the project...
 - Mini documentation and technical aspects of the project...
 
 
+## Notes: 
 
-## Global View:
-### Project Status: 
+
+## Overiew:
+### Project State: 
 - What it has been done so far...
 
 ### To-Do List: 
@@ -26,7 +28,7 @@ About the project...
 - e.g : what are the libraries that are used in the project; ... 
 
 
-### How to use:
+### Usage:
 e.g : How to use the provided makefile...
 ```
 make <target>  
@@ -41,13 +43,9 @@ make <target>
 
 
 
-
 ## Project Structure: 
     The directory structure of the project to facilitate project surfing...
 
-
-## Notices: 
-- ...
 
 
 ## Contacts:
