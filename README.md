@@ -11,7 +11,7 @@ About the project...
 ## Notes: 
 
 
-## Overiew:
+## Overview:
 ### Project State: 
 - What it has been done so far...
 
